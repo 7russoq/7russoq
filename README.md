@@ -1,16 +1,34 @@
-### Hi there 👋
+p align='center'>
+  <b>Hi 👋, I'm 7russoq</b><br>
 
-<!--
-**7russoq/7russoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
 
-Here are some ideas to get you started:
+> They fear the russo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+<img src="https://cdn.discordapp.com/attachments/1218409287693369476/1220889067206606939/dogs.gif?ex=6610948c&is=65fe1f8c&hm=0b6846bf1edd1830e9ed0f373384015cf3e50b4840d9734c0056ca6cc834b1a1&" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+
+```py
+
+
+7russoq @github
+----------------
+
+Languages  :   py
+
+33 style
+
+  
+```
+
+
+
+
+
+
+
+
+
+
+------------												
+- <p align="center"> Hi, I’m @7russoq

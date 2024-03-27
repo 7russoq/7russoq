@@ -1,4 +1,4 @@
-
+<p align='center'>
   <b>Hi 👋, I'm 7russoq</b><br>
 
 ```bash
